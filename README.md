@@ -1,2 +1,2 @@
-# practice_python
-Repo containing Practice Python exercises from http://www.practicepython.org/
+Added README.md from the master side!!<br />
+This Repository contains solutions to Practice Python exercises from http://www.practicepython.org/
